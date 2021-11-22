@@ -1,0 +1,49 @@
+.fixed-left {
+ background-color: #283643;
+ width: 12rem;
+ position: fixed;
+ top:3.5rem;
+ bottom: 0px;
+ margin-bottom:0px;
+	padding-top:1rem;
+}
+.a{
+ padding: 0px 2rem;
+ height: 3rem;
+ text-align: center;
+ line-height: 3rem;
+ }
+	.b ul li.active,.b ul li:hover{
+		background-color: #3c4248;
+	}
+
+.zt{
+	position: fixed;
+	top: 3.5rem;
+	bottom: 0px;
+	left: 12rem;
+	right: 0px;
+	
+}
+.breadcrumb{
+	width: 100%;
+}
+.bg{
+	padding:0rem 1rem;
+	
+}
+.fl{
+  float:right;
+}
+.form-inline{
+	padding: 1rem;
+}
+.tx{
+	padding:0rem 1rem;
+}
+h6{
+	height: 3rem;
+ line-height:3rem;
+	color: #6c757d;
+	border-bottom:2px solid #e9ecef ;
+}
